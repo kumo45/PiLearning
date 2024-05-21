@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "cmath": "c",
+        "joystick.h": "c",
+        "type_traits": "c"
+    }
+}
